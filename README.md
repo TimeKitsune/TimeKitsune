@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Trenton Scott, I'm a BACS major at WSU.
+My name is Trenton Scott, I'm a BACS major at WSU. I'm very new to coding in all of its aspects.
+
+I intend to participate in Pirate Software's Game Jam #16 and eventually an adaptation of Fire Emblem into TTRPG systems online.
+
+For the Game Jam, I intend to make some form of platformer in Unity, a system I have no experience in and a game genre I have never dabbled in prior. May my hubris not be my undoing over these next few weeks.
+
+The Fire Emblem TTRPG adaptation is something I've been invested in for a longer term, about two years by this point. At first it was simply brushing up and polishing the base rules, before it became evident a complete overhaul of systems was necessary. It's been slow progress with me typing out a new document and providing supplementary information as well as building base models for sheets and the like for character creation and combat simulation. I've not worked on it for a hot minute, but I intend to see it through to its end in due time.
+
+Please visit my personal repository at https://github.com/TimeKitsune
